@@ -10,3 +10,4 @@ Adicionei as dependências necessárias, fiz as classes.
 Não consegui nem criar usuário para fazer a autenticação!
 
 Não consegui...
+Também não consegui fazer a integração deste link com o GitChanges para ir os arquivos normais, por isso estão em um arquivo .rar
